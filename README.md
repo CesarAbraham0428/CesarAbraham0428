@@ -3,7 +3,7 @@
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/abrahamlopez0428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrahamlopez0428" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abrahamlopez0428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrahamlopez0428" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguages y Herramientas:</h3>
